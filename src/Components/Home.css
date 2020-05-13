@@ -1,0 +1,23 @@
+.baby {
+    width: 600px; 
+
+  }
+  
+  img {
+    vertical-align: center;
+    align-self: flex-start;
+  }
+  
+  .baby {
+      padding-top: 50px;
+      padding-left: 0%;
+   
+  }
+
+
+  #home-content{
+    padding:  10%;
+    margin-left: 16%;
+    
+
+  }
