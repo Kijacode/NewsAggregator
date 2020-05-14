@@ -1,6 +1,6 @@
 import React, { useState, useEffect,createContext } from "react";
 import socketIOClient from "socket.io-client";
-const ENDPOINT = "http://localhost:7000";
+const ENDPOINT = "https://newsroute.herokuapp.com/";
 
 export const BlogContext = createContext();
 
