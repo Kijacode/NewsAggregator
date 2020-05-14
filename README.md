@@ -33,7 +33,7 @@ Progressive Web Apps **Fort or download it**. All New Web Capabilities as one Pa
 | --- | --- |
 | MillardAyo.com | SwahiliTimes | 
 Lemutuz.com | Nukta Habari | 
-| BBC Swahili | * | 
+| BBC Swahili | DW -Idhaa ya Kiswahili | 
 | Independent Television (ITV) |  * | 
 
 
