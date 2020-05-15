@@ -31,7 +31,8 @@ const Corous = () =>{
                    
                 </div>
                 <div>
-                <img src="https://res.cloudinary.com/kijacode/image/upload/v1589228036/pznlze1arveu0bolnb2h.jpg"/>
+                   
+                <img src="https://res.cloudinary.com/kijacode/image/upload/v1589228036/kkfiynegemepf2lnobto.jpg"/>
                    
                 </div>
                 <div>
@@ -47,8 +48,8 @@ const Corous = () =>{
                    
                 </div>
                 <div>
-                <img src="https://res.cloudinary.com/kijacode/image/upload/v1589228036/kkfiynegemepf2lnobto.jpg"/>
-                   
+                <img src="https://res.cloudinary.com/kijacode/image/upload/v1589228036/pznlze1arveu0bolnb2h.jpg"/>
+                  
                 </div>
             </Carousel>
 
