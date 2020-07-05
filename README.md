@@ -1,20 +1,12 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/842b447a-4bdc-48a3-b59f-9c5bb3734a73/deploy-status)](https://app.netlify.com/sites/dataggrigator/deploys)
 ## Swahili Data(News) Aggregator
 
+News aggregator is a simple,optimized prototype of aggregate news in real time from different news producer in realtime at interval of 10 minutes (but can be less or more).
 
-Cron is a tool that allows you to execute _something_ on a schedule. This is
-typically done using the cron syntax. We allow you to execute a function
-whenever your scheduled job triggers. We also allow you to execute a job
-external to the javascript process using `child_process`. Additionally, this
-library goes beyond the basic cron syntax and allows you to
-supply a Date object. This will be used as the trigger for your callback. Cron
-syntax is still an acceptable CronTime format. Although the Cron patterns
-supported here extend on the standard Unix format to support seconds digits,
-leaving it off will default to 0 and match the Unix behavior.
 
 ## Get started with this Project 
 
-Progressive Web Apps **Fort or download it**. All New Web Capabilities as one Package.
+Single web application  **Fork or download it**. All New Web Capabilities as one Package.
 
 ### Install packages/modules used via NPM
 
@@ -45,7 +37,7 @@ Follow our [SocialMedia Account](https://twitter.com/Kijacode) on [Twitter](http
 | Communication Channel | Talk to us |
 | --- | --- |
 | Twitter Chat | [Tweet us](https://twitter.com/Kijacode) |
-| Admin Email | [Join Workspace](http://bit.ly/2oPNK7S) |
+| Admin Email | [Join Workspace](kijadanford@gmail.com) |
 
 
 
